@@ -1,1 +1,1 @@
-**Tugasnya ada di file nested loop**
+**Tugasnya ada di file nested for**
